@@ -17,6 +17,7 @@ int G[V][V] = {
   {0, 19, 51, 0, 31},
   {0, 42, 66, 31, 0}};
 
+
 int main() {
   int no_edge;  // number of edge
 
